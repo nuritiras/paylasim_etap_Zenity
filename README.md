@@ -1,5 +1,4 @@
-# paylasim_etap_Zenity
-ardus ETAP 23 (Cinnamon) ve Pardus 23.4 GNOME’da çalışan, Zenity ile pencereli kurulum sihirbazı + menüde ikonu olan uygulama şeklinde bir çözüm var.
+## Pardus ETAP 23 (Cinnamon) ve Pardus 23.4 GNOME’da çalışan, Zenity ile pencereli kurulum sihirbazı + menüde ikonu olan uygulama şeklinde bir çözüm var.
 
 ## Uygulamanın yapacağı şeyler:
 
